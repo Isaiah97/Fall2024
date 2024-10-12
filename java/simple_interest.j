@@ -7,5 +7,5 @@ public static int simple_interest(int p, int r, int t) {
     mips.print_d(si);    
     mips.print_ci('\n');
 
-    return ; 
+    return 0; 
 }
