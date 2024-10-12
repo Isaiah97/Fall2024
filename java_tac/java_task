@@ -10,7 +10,7 @@ public static int simple_interest(int p, int r, int t) {
     si = t2 / 100;   
 
     
-    mips.print_d(SI);
+    mips.print_d(si);
     mips.print_ci('\n');
     return 0;
 }
