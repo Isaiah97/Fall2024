@@ -1,9 +1,12 @@
-public static int simple_interest(int P, int R, int T){
+public static int simple_interest(int p, int r, int t) {
+    
+    
+    int si;
 
-	int SI;
+    si= p * t * r/100;
+    
+    mips.print_d(si);    
+    mips.print_ci('\n');
 
-	SI = (R / 100) * P * T;
-	System.out.println(SI);
-
-  return 0;
+    return 0; 
 }
