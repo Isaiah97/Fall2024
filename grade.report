@@ -1,0 +1,60 @@
+# Grading Report
+# Github Account: Isaiah97
+# Assignment:    "41-simple-interest"
+# --- Due Date:        "Oct 11 23:59 PDT"
+# --- Version Graded:  "graded_version (072c330)"
+# --- Version Date:    "Oct 11 23:38 "
+# --- Status:          "Submission On Time"
+
+   0 Points:  Test Cases (10 Points):
+                    did not make any changes, additions, etc
+  15 Points:  Java Execution (15 Points):
+  15 Points:  Java Code (15 Points):
+   0 Points:  Java TAC Execution (15 Points):
+                    no file
+   0 Points:  Java TAC Code (15 Points):
+                    no file
+   0 Points:  MIPS Execution (15 Points):
+                    did not test
+  10 Points:  MIPS Code (15 Points):
+                    did not follow the process
+   0 Points:  Additional Comments (0 Points):
+                    did not follow the process, class is important
+----
+  40 Points:  Total
+
+ASSIGNMENT_41_total="40"        # Isaiah97
+
+BRANCHES:
+  java
+  java_tac
+* main
+  mips
+
+TAGS:
+java_submitted
+java_tac_submitted
+mips_submitted
+
+STUDENT COMMIT HISTORY:
+
+* Due Date: Oct 11 23:59 PDT  -----------------
+*  072c330  Oct 11 23:38 PDT  (HEAD -> main, tag: mips_submitted, tag: graded_version, origin/mips, origin/main, origin/HEAD, mips, grading_information)
+*  b996319  Oct 11 23:23 PDT 
+*  a6e1841  Oct 11 23:14 PDT  (tag: java_tac_submitted, origin/java_tac, java_tac)
+*  08cbd3d  Oct 11 23:05 PDT 
+*    ea551a5  Oct 11 23:00 PDT 
+|\  
+| *  f11753a  Oct 11 22:53 PDT  (tag: java_submitted, origin/java, java)
+| *    c6da265  Oct 11 22:35 PDT 
+| |\  
+| * |  d22d82b  Oct 11 21:42 PDT 
+| * |  89fc742  Oct 11 21:37 PDT 
+| * |  3d52f3d  Oct 11 21:12 PDT 
+| * |  8c9c277  Oct 11 21:08 PDT 
+| * |  0e5906e  Oct 10 10:35 PDT 
+| |/  
+* |  c9bd937  Oct 11 22:35 PDT 
+* |  5b9b7a5  Oct 11 21:53 PDT 
+|/  
+
