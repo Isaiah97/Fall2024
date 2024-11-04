@@ -1,0 +1,16 @@
+public static int simple_interest(int p, int r, int t) {
+
+    int t1, 
+    int t2, 
+    int si;
+
+    
+    t1 = r * p;
+    t2 = t1 * t;  
+    si = t2 / 100;   
+
+    
+    mips.print_d(si);
+    mips.print_ci('\n');
+    return 0;
+}
